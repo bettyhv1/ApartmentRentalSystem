@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ApartmentRentalSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ApartmentRentalSystem_jar</output-path>
+    <root id="archive" name="ApartmentRentalSystem.jar">
+      <element id="module-output" name="ApartmentRentalSystem" />
+      <element id="module-test-output" name="ApartmentRentalSystem" />
+    </root>
+  </artifact>
+</component>
