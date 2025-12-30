@@ -26,5 +26,5 @@ public class ApartmentService
 
     public void assignOwnerToApartment(Long ownerId, Long apartmentId) { ... }
     public void rentApartment(Long tenantId, Long apartmentId) { ... }
-
+//dkfnlkdfjld
 }
